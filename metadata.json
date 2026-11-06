@@ -1,0 +1,6 @@
+{
+  "name": "NexusGovernance AI - Enterprise Project & Delivery Governance",
+  "description": "Enterprise-grade Project Management & Delivery Governance application powered by an Agentic AI Multi-Agent Framework, predictive EVM controls, DORA metrics, ITIL 5 value streams, and dual-ledger audit compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
